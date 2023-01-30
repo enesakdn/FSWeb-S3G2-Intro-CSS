@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 755px;
+  margin: 0 auto;
+}
+
+header {
+  padding: 20px;
+}
+
+nav a {
+  background-color: #5ed3eb;
+  padding: 15px 20px;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  margin: 5px 5%;
+  width: 13%;
+  text-align: center;
+  min-height: 36px;
+  vertical-align: middle;
+}
+
+.ilknav {
+  background-color: #ff764e;
+  margin: 5px 3%;
+  padding: 15x 20px;
+  min-height: 36px;
+}
+
+.sonnav {
+  background-color: #ffcd69;
+  margin: 5px 3%;
+}
+
+main {
+  padding-top: 20px;
+}
+
+.circleimg {
+  width: 400px;
+  height: 328px;
+}
+
+.main-img {
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  margin-left: 108px;
+}
+.peribacalarıtext {
+  height: 300px;
+  width: 1000px;
+  text-align: center;
+}
+
+.intro {
+  margin-left: 109px;
+  margin-right: 108px;
+  height: 121px;
+}
+
+.intro {
+  text-align: center;
+  background-color: #ddb9a3;
+  color: white;
+}
+
+.baloon-section {
+  width: 368.27px;
+  height: 427px;
+  margin-left: 581px;
+  margin-right: 587px;
+  margin-top: 20px;
+}
+.balon {
+  width: 75px;
+  height: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 50%;
+}
+.balon-text {
+  text-align: center;
+  line-height: 0.9px;
+}
+.atv-section {
+  margin-left: 581px;
+  margin-right: 587px;
+  width: 368.27px;
+  height: 333px;
+  margin-top: -150px;
+  margin-bottom: 50px;
+}
+.atv {
+  width: 75px;
+  height: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 50%;
+}
+.atv-text {
+  text-align: center;
+  line-height: 0.9px;
+}
+
+article section {
+  display: flex;
+  flex-wrap: wrap;
+  vertical-align: middle;
+}
+
+.circle-image,
+.peri-bacalari {
+  flex: 1;
+  display: inline-block;
+}
+
+.header-nav {
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 100px;
+}
+peri-bacalari-text {
+  font-family: Chelsea Market;
+}
+*/ header {
+  margin-bottom: 100px;
+}
+.peri-bacalari .peri-bacalari-text {
+  font-family: Chelsea Market;
+  font-size: larger;
+}
+
+.footer-nav {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 100px;
+}
+.footer-image {
+  height: 250px;
+  width: 100%;
+}
+*/ .footer {
+  background-color: #f9e7dc;
+  width: 100%;
+  height: 100px;
+}
+.a {
+  height: 250px;
+  width: 100%;
+  background-image: url(/assets/footer_img.jpg);
+  overflow: hidden;
+}
+.be:hover {
+  color: purple;
+}
+.gp:hover {
+  color: purple;
+}
+.k:hover {
+  color: purple;
+}
